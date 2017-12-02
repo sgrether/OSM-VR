@@ -13,7 +13,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Active: 1
   _textureTop: 1
-  _useSatelliteTexture: 0
+  _useSatelliteTexture: 1
   _topMaterials:
   - {fileID: 2100000, guid: 426e36470bd158840b4341afa04468d7, type: 2}
   _textureSides: 1
